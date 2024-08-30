@@ -1,0 +1,7 @@
+int main() {
+    int a = 5;  // Esta es una constante
+    /* Este es un comentario de bloque
+       que se extiende por varias líneas */
+    a = a + 1;  // Incremento
+}
+
